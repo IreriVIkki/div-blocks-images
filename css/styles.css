@@ -40,11 +40,12 @@ header h1 {
   margin: auto;
   height: 200px;
   display: block;
+  overflow: hidden;
 }
 
 .dog-img img{
-  width: auto;
-  height: 100%;
+  width: 100%;
+  height: auto;
 }
 
 /* .col-img-2 {
